@@ -10,6 +10,7 @@ require("snacks").setup({
         },
     },
     lazygit = {
+        configure = false,
         win = {
             style = "lazygit",
             border = true,
